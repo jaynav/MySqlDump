@@ -1,0 +1,8 @@
+Product Number Product Description               Unit Price  Category Description              Order Id Order Date
+-------------- --------------------------------- ----------- --------------------------------- -------- --------------------
+A70193         LW5AM Micro Welder                20000       YAG Laser Welders                 ZZ88989  Dec 24, 2009
+A99999         Test Product                      45200       AP Lazer Systems                  ZZ88989  Dec 24, 2009
+C26703         AP200a Lazer systems/worstations  44000       AP Lazer Systems                  ZZ88989  Dec 24, 2009
+
+(3 row(s) affected)
+
