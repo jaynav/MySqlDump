@@ -1,4 +1,3 @@
-
 	SELECT salesCompany.companyName as 'Company Name', salesCompanyDomestic.state as 'State', phoneNumber as 'Phone', 
 commissionRate as 'Commission Rate'
 From salesCompany join salesCompanyDomestic
